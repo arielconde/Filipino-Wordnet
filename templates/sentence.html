@@ -1,0 +1,116 @@
+<link rel="stylesheet" type="text/css" href={{ url_for('static', filename='style.css') }} />
+
+<h6>{{ title }}</h6>
+
+<button onclick="setRelation('None')">None</button>
+<button onclick="setRelation('Synonymy')">Synonymy(also means)</button>
+<button onclick="setRelation('Meronymy')">Meronymy(part of)</button>
+<button onclick="setRelation('Holynymy')">Holynymy(whole of)</button>
+<button onclick="setRelation('Hypnomy')">Hyponomy(type of)</button>
+
+<br/><br />
+<a href="./{{next_id}}"><button>Invalid</button></a>
+<a href="../{{ next_article_id}}/0"><button>Next Article</button></a>
+<a href="../../delete/{{title}}/{{next_article_id}}"><button>Delete Article</button></a>
+
+
+<div style="width: 80%">
+<br/>
+{% for token in tokens %}
+    <span class="token" onclick ="toggle(this, '{{ token }}', {{ loop.index - 1}})">{{ token }} </span>
+{% endfor %}
+</div>
+
+<br /><br />
+
+<form method="post" action='{{ next_id }}'>
+
+    <input type="submit" value="SAVE" />
+    <br /><br />
+
+    <textarea name="sentence" width="300px" id="sentence" rows="2" cols="75">{{sentence}}</textarea>
+    <br /><br />
+
+
+    <label for='relation'>Relation</label>
+    <br />
+    <input name="relation" id="relation" size="50" required />
+
+    <hr />
+
+    <label for='baseword'>Baseword</label>
+    <br />
+    <input name="baseword" id="baseword" size="50" required /><input id="baseword_pos" name="baseword_pos" />
+
+    <hr />
+
+    <label for='baseword'>Subword</label>
+    <br />
+    <input name="subword" id="subword" size="50" required /><input id="subword_pos" name="subword_pos" />
+
+    <br /><br />
+
+</form>
+
+<script>
+
+    (function() {
+       
+        var move_to_next = '{{ move_to_next }}';
+
+        // if (move_to_next == 'True') {
+        //     alert("Moving to next");
+        //     window.location = '..{{ next_id }}' + '/0';
+        // }
+
+    })();
+
+    // select word relation
+    var relation     = "";
+    var baseword     = "";
+    var baseword_pos = -1;
+    var subword      = "";
+    var subword_pos  = -1;
+
+
+    // detect keyboard press
+    document.onkeypress = function (e) {
+        // if spaces is pressed
+        // sentence has no word relation
+        // move to the next sentence
+        if (e.keyCode == 32) {
+            window.location = 'next_sentence'
+        }
+    }
+
+    var toggle = function(e, text, position) {
+        console.log(e);
+        e.className = "selected";
+        if (baseword == "") {
+            baseword = text;
+            document.getElementById('baseword').value = text;
+            document.getElementById('baseword_pos').value = position;
+        } else if (subword == "") {
+            subword = text;
+            document.getElementById('subword').value = text;
+            document.getElementById('subword_pos').value= position;
+        } else {
+            alert("Selection full");
+        }
+    }
+
+    var setRelation = function(p_relation) {
+        relation = p_relation;
+        document.getElementById('relation').value = p_relation;
+        if (p_relation == 'None') {
+            document.getElementById('baseword').value = '-';
+            document.getElementById('baseword_pos').value = 0;
+            document.getElementById('subword').value = '-';
+            document.getElementById('subword_pos').value= 0;
+        }
+    }
+
+    var none = function() {
+        window.location = {{ next_id }};
+    }
+</script>

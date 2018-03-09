@@ -1,0 +1,1 @@
+b'Ang larangan ng elektronika  ay ang pag-aaral at paggamit ng mga sistema na gumagana sa pamamagitan ng pagdaloy ng mga elektron  sa mga kagamitan katulad ng termiyonikong balbula at semikonduktor. Bahagi ng inhinyeriyang elektronika ang disenyo at konstruksiyon ng mga elektronikong sirkit at bahagi ng disenyo ng hardwer sa inhinyeriyang pangkompyuter.'

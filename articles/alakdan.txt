@@ -1,0 +1,1 @@
+b'Pseudochactoidea\nButhoidea\nChaeriloidea\nChactoidea\nIuroidea\nScorpionoidea'

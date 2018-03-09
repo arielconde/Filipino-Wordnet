@@ -1,0 +1,1 @@
+b'Sa heometriya, ang isang anggulo ay nabubuo sa pamamagitan ng dalawang ray o piraso ng linya, tinatawag na mga gilid ng anggulo, na may kaparehong dulo, tinatawag na vertex o taluktok ng anggulo. Kung gaano kalaki ang sulok ng pinagsalubungan ng mga linya, ganoon na rin ang sukat ng anggulo. Ang salitang "anggulo" ay hango sa Latin na angulus o "sulok".'

@@ -1,0 +1,1 @@
+b'Agonostomus\nAldrichetta\nCestraeus\nChaenomugil\nChelon\nCrenimugil\nJoturus\nLiza\nMoolgarda\nMugil\nMyxus\nNeomyxus\nOedalechilus\nRhinomugil\nSicamugil\nValamugil\nXenomugil'

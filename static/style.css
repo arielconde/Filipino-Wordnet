@@ -1,0 +1,54 @@
+
+
+@font-face {
+    font-family: Lato-Black;
+    src: url(fonts/Lato-Black.ttf);
+}
+
+body {
+    padding: 100px;
+    padding-top: 20px;
+}
+
+span {
+    font-family: Lato-Black;
+    font-size: 28px;
+}
+
+.token {
+    font-size: 28px;
+}
+
+.selected {
+    color: red;
+}
+
+button {
+    height: 50px;
+    width: 150px;
+    border:none;
+}
+
+label {
+    font-family: Lato-Black;
+    font-size: 18px;
+    color: orange;
+}
+
+input {
+    font-family: Lato-Black;
+    font-size: 18px;
+    padding: 5px;
+}
+
+h3 {
+    font-family: Lato-Black;
+}
+
+#sentence {
+    
+}
+
+#btnnone {
+    
+}

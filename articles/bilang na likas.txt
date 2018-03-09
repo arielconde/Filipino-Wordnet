@@ -1,0 +1,1 @@
+b'Sa matematika, ang likas na bilang  ay nangangahulugang isang elemento sa isang pangkat  na {1, 2, 3, ...}  o isang elemento sa isang pangkat na {0, 1, 2, 3, ...} .'

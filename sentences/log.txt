@@ -1,0 +1,1735 @@
+Evaluating: tests/TESTFabay.txt , tests/ANSFabay.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang abay ay mga tao na itinuturing na mga panauhing pandangal o konsorte sa isang seremonyas ng kasal
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Maaari itong mga abay na lalaki / piling ginoo  o pangunahing abay na lalaki / natatanging ginoo , mga abay na babae , o abay na pandangal
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Score for Synonymy : 2 / 2
+Evaluating: tests/TESTFabutan.txt , tests/ANSFabutan.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Mas angkop ang impormasyon ng artikulong ito sa isang disyunaryo sa halip na ensiklopedya
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Hindi isang disksyunaryo ang Wikipedia, ngunit diksyunaryo naman ang Wiktionary
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Paki tiyak kung umaayon ito sa pamantayan ng pagsasama sa Wiktionary at wala pa sa Tagalog na Wiktionary ang salita o katagang ito
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 3 / 3
+Evaluating: tests/TESTFAdat.txt , tests/ANSFAdat.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang adat ay isang uri ng batas ng kaugalian ng mga Tausug ng Mindanao
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Sumasaklaw ito sa bawat bahagi ng buhay, maging panlipunan, pampolitika at panrelihiyon
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Pinapahintulutan ng adat ang sara  upang gumamit ng pwersang pisikal para maisakatuparan ang katarungan
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 2 / 3
+Evaluating: tests/TESTFakala.txt , tests/ANSFakala.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang iniisip, naiisip, o diwa, mula sa mga salitang isip at isipan, ay ang mga hubog, hugis, at anyong nalilikha sa isipan, sa halip na mga pormang napagmumulatan, napapansin, o napagmamasdan sa pamamagitan ng limang mga sentido o pandama
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Ang naiisip o pag-iisip ay mga proseso kung saan ang mga imahinaryo o nasa isip lamang ng mga persepsiyon ay bumabangon o lumilitaw at namamanipula o napapagalaw o nahahawakan
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Nakapagpapahintulot ang pag-iisip sa mga nilalang upang imodelo o ihuwaran o lilukin ang mundo at katawanin ito ayon sa kanilang mga layunin, mga plano, mga balak, at mga nais o kagustuhan
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Katulad na mga konsepto at mga proseso ang kognisyon o paglilimi , kamalayan, kamukatan, kamuwangan, damdamin, mga ideya, at imahinasyon
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Kaugnay ito ng mga salitang pag-iisip, akala, ala-ala, hinagap, hinuha, salamisim, gunam-gunam, taki-taki, gunita, konsepto, agam-agam,nosyon, at paniniwala
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 4 / 5
+Evaluating: tests/TESTFakaunting.txt , tests/ANSFakaunting.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang accounting , pagtutuos, kontadurya  ay ang larangan at pamamaraan ng pagsusuri pagsusukat, pagpoproseso, at pamamahayag ng mga ari-arian, ng mga pananagutan, ng mga kita, ng mga resulta ng mga gawaing ekonomiko ng isang grupo ng tao, at pinansiyal na kalagayan o katayuan ng isang negosyo o organisasyon, at ang pagpapahiwatig nitong mga resulta sa mga tao, kasama na ang mga namumuhunan , nangagasiwa , at nanunustos
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Ito ay tinagurian ding wika ng pagnenegosyo at magkasingkahulugan ang accounting at pag-uulat ng pananalapi
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Tinatawag na accountant ang taong nagsasanay sa larangang ito
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 2 / 3
+Evaluating: tests/TESTFaklat.txt , tests/ANSFaklat.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang aklat o libro ay mga pinagsamasamang mga nailimbag na salita sa papel
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Naglalaman din ang ibang mga aklat ng mga larawan
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Kadalasang maraming mga pahina ang mga ito
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 2 / 3
+Evaluating: tests/TESTFAktinyum.txt , tests/ANSFAktinyum.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang actinium o aktinyo  ay isang radyoaktibong elementong matatagpuan sa mga inang-bato ng uranyo, at pinanggagalingan ng mga sinag-alpa
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Mayroon itong atomikong bilang na 89
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Natuklasan ito noong 1899 ni Andr-Louis Debierne
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Ito ang unang elementong hindi primordiyal na elementong radyoaktibo na unang naibukod o naihiwalay, bagaman napansin din noong dati pa ang polonyo, radyum, at radon, subalit hindi naibukod hanggang sa sumapit ang 1902
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Ito ang pinakamatagal na istopo
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Mayroon itong kalahating-buhay na 21
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: 7 mga taon
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Kabilang sa mga katangian nito ang punto ng pagkatunaw  na 1,050C, punto ng pagkulo  na 3,200C, espesipikong grabidad  na humigit-kumulang sa 10
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: 07, at V na 3
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Ito ang elementong nagbigay ng pangalan sa seryeng aktinido, na isang pangkat ng 15 katulad na mga elementong nasa pagitan ng aktinyo at ng lawrencium sa talaang peryodiko
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 9 / 10
+Evaluating: tests/TESTFalkohol.txt , tests/ANSFalkohol.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Sa kimika, ang alkohol ay kahit anong kompuwestong organiko na nasa pangkat ng hydroxyl  na papunta sa isang atomo ng karbon ng isang alkyl o pinalitang pangkat ng alkyl
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Ang pormula sa isang payak na alkohol na acyclic ay CnH2n+1OH
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Sa karaniwang gamit, tumutukoy ang alcohol sa ethanol, isang uri ng alkohol na matatagpuan sa mga inuming alkohol
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Score for Synonymy : 2 / 3
+Evaluating: tests/TESTFalmendras.txt , tests/ANSFalmendras.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang almendras o almendro  ay isang uri ng bungang mani at puno nito
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Bagaman tinatawag din itong pili, ang tunay na punong pili ay ang punong Canarium ovatum Prunus dulcis ang pangalang pang-agham nito, ngunit may iba itong mga pangalang siyentipiko o kasingkahulugan: Prunus amygdalus Batsch
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: , Amygdalus communis L
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: , Amygdalus dulcis Mill
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Isang uri ng Prunus ang almendras at kabilang sa subpamilyang Prunoideae ng pamilyang Rosaceae; sa loob ng Prunus, ibinibilang ito sa mga walnut sa subsaring Amygdalus, na maipagkakaiba mula sa iba pang mga subsari  sa pamamagitan ng mga kulubot sa balat ng mga buto nito
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Almendro  din ang tawag sa buto ng punong ito
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Sa larangan ng botaniya, hindi ito itinuturing na isang tunay na mani, bagaman laging natatawag na mani sa karaniwang usapan
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 3 / 7
+Evaluating: tests/TESTFanak-araw.txt , tests/ANSFanak-araw.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang anak-araw o albinismo, na mula sa Latin: albus , ay isang uri ng suliraning konhenital at kakulangan ng kulay  sa katawan
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Ang organismong may karamdamang albinismo ay tinatawag na anak-araw, albino o sarka , at tumutukoy sa mga mamalya , isda, ibon, reptilya at amphibian na may maputing balat, buhok at iba pang bahagi ng katawan
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: May kakulangan  o kaya buong kawalan  ng kulay o melanin  ang organismong may ganitong katangian namamana o kamaliang henetiko
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Ito ay isang namamanang katangiang natutulog o hindi kadalasang lumilitaw
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Ang iba pang mga pandiwang ginagamit para tukuyin ang mga anak-araw ay ang mga salitang albinistiko, albinoid  at albiniko
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Score for Synonymy : 3 / 5
+Evaluating: tests/TESTFanila.txt , tests/ANSFanila.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang anila, anilan, bahay-pukyutan, bahay-anilan, panilan, o saray ay ang bahay o pugad ng pukyutang gawa ng mga bubuyog
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Isa itong masa ng mga selula ng pagkit na binuo ng mga bubuyog sa loob ng kanilang pugad para ibahay ang kanilang mga anyong-uod at para makapag-imbak ng mga pulut-pukyutan at polen
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 2 / 2
+Evaluating: tests/TESTFapyak.txt , tests/ANSFapyak.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang apyak o pula ng itlog  ay ang mamulamula at madilaw na panggitnang bahagi sa loob ng isang itlog
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Tinatawag din itong burog, buro, at yema
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Score for Synonymy : 1 / 2
+Evaluating: tests/TESTFaritmetiko.txt , tests/ANSFaritmetiko.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang aritmetika o bilnuran sa kaniyang kadalasang gamit ay bahagi ng matematika o sipnayan na naituturing na kahalingkabuluhan ng teorya ng bilang
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Sa ilalim nito ay ang tradisyunal na operasyon, pagsusuma o pagdaragdag, pagbabawas, pagpaparami, at paghahati
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Kasama rin ng bilnuran ay ang mas mataas na operasyon gaya ng pagbabahagdann
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Kinukwenta ang mga operasyon ayon sa kaniyang batas nang pagkakasunod-sunod
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 3 / 4
+Evaluating: tests/TESTFarte.txt , tests/ANSFarte.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang pagganap, pag-akto, o pag-arte  ay ang gawain o pagkilos na isinasagawa ng isang aktor o ng isang aktres, na mga taong nasa larangan ng teatro, telebisyon, pelikula, o anumang iba pang mga midya ng pagkukuwento at nagsasalaysay ng kuwento sa pamamagitan ng paglalarawan o ng isang tauhan at, sa pangkaraniwan, ay nagsasalita o umaawit ng nakasulat na teksto o dula
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Sa mundong Kanluranin, ang karamihan sa maagang mga sanggunian na sumisiyasat sa sining ng pag-arte  ay tumatalakay nito bilang isang bahagi ng retoriko
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Score for Synonymy : 1 / 2
+Evaluating: tests/TESTFartikulasyon.txt , tests/ANSFartikulasyon.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang artikulasyon ay maaaring tumukoy sa:'
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 1 / 1
+Evaluating: tests/TESTFartikulo.txt , tests/ANSFartikulo.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Maaaring tumukoy ang Artikulo sa:'
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 1 / 1
+Evaluating: tests/TESTFartistik.txt , tests/ANSFartistik.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang sining, bagaman kadalasang tumutukoy ang salitang ito sa sining biswal, ay patuloy na nagbabago ang kaisipan na kung ano ang sining
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Marahil na pinakamalawak ang pinakamaigsing kahulugan nito  tinutukoy ng sining ang lahat ng malikhaing pagsisikap ng tao, di kabilang ang mga gawaing may tuwirang ugnayan sa pananatili ng buhay at pagsusupling
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Mula sa isang malawak na pagpapalagay, isang pangkalahatang kataga ang sining para sa anumang naibunga ng pagiging malikhain, na tumubo mula sa lahat ng iba pang larangan ng tao katulad ng agham sa pamamagitan ng alkimiya, at relihiyon sa pamamagitan ng shamanismo
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Score for Synonymy : 0 / 3
+Evaluating: tests/TESTFaruskaldo.txt , tests/ANSFaruskaldo.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang lugaw  ay uri ng lutuing may sabaw, nilutong bigas, at sahog
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Sa Pilipinas, nagluluto ang mga Pilipino ng goto o lugaw goto na sinangkapan ng goto o kalyos ng baka
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Maaari ring haluan ito ng paa ng baka
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Isang pang lugaw ng Pilipino ang lugaw tokwa-baboy
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Sa pinakapayak na paghahanda, nilalagyan lamang ang lugaw ng asukal , at ang ganitong nilugaw ang inihahanda para sa batang may sakit
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Gumagamit din sa nilugaw ng mga hibi at sa bao
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Bago kainin ang isinilbing lugaw, kadalasan ding nilalagyan ito ng patis, toyo, bawang, paminta, at kalamansi
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 3 / 7
+Evaluating: tests/TESTFasam-asamin.txt , tests/ANSFasam-asamin.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang nais, na may kaugnayan o pagkakahalintulad sa mga salitang sana, gusto, ibig, hilig, nasa , pita, sinta, asam, o sabik, ay ang paghahangad para sa isang tao o bagay o pag-asa para sa isang resulta o kinalabasan
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Ang katulad na diwa ay ipinapahayag ng mga damdaming katulad ng pagmimithi
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Kapag ang isang tao ay naghahangad ng isang bagay o ng isang tao, ang kanilang pakiramdam ng pag-asam ay pinasisigla ng kasiyahan o ng pagkaisip ng bagay o ng tao, at nais nilang gumawa ng mga kilos upang makamit ang kaniyang layunin
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Ang aspeto ng motibasyon o udyok  ng pagnanais ay matagal nang napansin ng mga pilosopo; ipinahayag ni Hobbes  na ang pagnanais ng tao ay isang pundamental na kaudyukan ng lahat ng kilos ng tao
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Score for Synonymy : 4 / 4
+Evaluating: tests/TESTFasido.txt , tests/ANSFasido.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang isang asido o aksido  ay isang kompuwestong kimikal na karaniwang natutunaw sa tubig at may maasim na lasa
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Sa karaniwang kaisipan, ang isang asido ay kahit anong sustansiya na kapag tinunaw o inihalo sa tubig ay nagdudulot ng pH na mas mababa sa 7
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Sa pangmalawakang gamit sa agham, ang asido ay isang molekula o iono na nagbibigay ng isang proton  sa isang base, o tumatanggap ng isang hindi pa naibabahaging pares ng elektron  sa isang base
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Nakikipagsanib ang isang asido sa isang base sa neutralisasyon upang makabuo ng isang asin
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 2 / 4
+Evaluating: tests/TESTFAstatin.txt , tests/ANSFAstatin.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang astato  ay isang uri ng elementong kimikal na radyoaktibo at may sagisag na At at atomikong bilang na 85
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Ito ang pinakamabigat sa natuklasan nang mga halogeno
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Bagaman nalilikha ito sa pamamagitan ng pagkabulok na radyoaktibo sa kalikasan, natatagpuan lamang itong may kakaunting bilang dahil sa maiksi nitong kalahating buhay
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Unang nakagawa ng astatino sina Dale R
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Corson, Kenneth Ross MacKenzie, at Emilio Segr noong 1940
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Tatlong taon ang nakalipas bago natagpuan ang mga bakas ng astatino sa loob ng likas na mga mineral
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Hanggang sa kamakailan lamang, karamihan sa mga katangiang pisikal at kimikal ng astatino ay nababatay lamang mula sa paghahambing sa iba pang mga elemento
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Ilan sa mga isotopo ng astatino ang ginagamit bilang mga tagapaglabas o "emiter" ng mga partikulong alpa sa mga paggamit na makaagham at nasubukan na rin ang paggamit na pangmedisina ng astatino bilang 211
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Sa kasalukuyan, ang astatino ang pinakabihirang likas na lumilitaw o likas na nalilikhang elemento, na may mas mababa sa isang onsa sa loob ng buong balat o kapatagan ng mundo
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Score for Synonymy : 6 / 9
+Evaluating: tests/TESTFAsupre.txt , tests/ANSFAsupre.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang asupre, sangyawa o sulpura  ay isang kemikal na elementong gumagamit sa bilang atomikong 16
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Ito ay karaniwang ginagamitan ng simbolong S
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Ito ay isang karaniwang multibalente na hindi metal
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Asupre, sa katutubong uri, ay matamlay na dilaw na crystal line solid
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Sa kalikasan, karaniwan ito matatagpuang purong elemento at mga mineral na asuprido at asuprata
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Isa itong esensyal na elemento para sa buhay at matatagpuan ito sa mga asidong amino: cysteine at methionine
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Ginagamit itong pataba, pero karaniwan din ito sa pulbura, posporo, insecticide at fungicide
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Ang elementong asupre na kristal ay kadalasang hinahanap ng mga nangongolekta ng mga mineral dahil sa matingkad nitong mga sukat na polihedron
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Tinatawag din itong brimstone sa Inggles
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 9 / 9
+Evaluating: tests/TESTFateismo.txt , tests/ANSFateismo.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Sa pinakamalawak nitong kahulugan, ang ateismo ay ang hindi paniniwala sa Diyos o mga diyos
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Score for Synonymy : 0 / 1
+Evaluating: tests/TESTFawit.txt , tests/ANSFawit.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang awitin ay musika na magandang pakinggan
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Kadalasang itong maganda kung gusto rin ito ng makikinig
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Mayroon itong tono at sukat
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Naglalaman ang isang awiting ng bahaging pang-tinig na ginagampanan, inaawit at pangkalahatang tinatanghal ang mga salita , karaniwang sinusundan ng mga intrumentong pang-musika
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Kadalasang nasa anyong tula at tumutugma ang mga salita ng mga awitin, bagaman, may mga relihiyosong mga taludtod o malayang prosa
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Ang mga salita ay ang liriko
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Ang awitin ay tinatawag ding talindaw o tagulaylay, partikular na iyong mga awitin ng mga mangingisda
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Score for Synonymy : 5 / 7
+Evaluating: tests/TESTFbabuyin.txt , tests/ANSFbabuyin.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang baboy ay maaaring tumukoy sa:'
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 1 / 1
+Evaluating: tests/TESTFbahaghari.txt , tests/ANSFbahaghari.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang kahulugan ng bahaghari ay bahag at hari
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Ang mga bahaghari, bahagsubay o balangaw  ay mga pulutong ng kulay na nasa anyo ng kalahati o buong bilog
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Makikita ang penomeno o likas na kaganapang ito pagkatapos ng pag-ulan, mula sa singaw ng pandilig na may pangwisik, o kaya mula sa singaw-ulap ng isang umaagos na talon
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 False
+
+
+Classifying: Nabubuo ang bahaghari mula sa sinag ng araw at mga mahalumigmig na ambon sa hangin
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 2 / 4
+Evaluating: tests/TESTFbahain.txt , tests/ANSFbahain.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang baha ay labis na pag-apaw ng tubig o isang paglawak ng tubig na natatakpan ang lupa, at isang delubyo
+:: Classification if Synonymy :	 True
+:: From ANS file is Synonymy :	 True
+Match
+
+
+Classifying: Sanhi nito ang ulang rumaragasa o bumubugso
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Maaari rin itong padagsang pagtambak ng napakaraming bagay sa isang lugar
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Naging katumbas din ito ng gunaw o pagkagunaw sa ibang diwa
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Sa katulad na kaisipan ng dumadaloy na tubig, nilalapat ang salita sa paloob na daloy ng pagkati, salungat sa palabas na pagdaloy
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 3 / 5
+Evaluating: tests/TESTFbakal.txt , tests/ANSFbakal.json
+-------------------------
+
+ Synonymy
+
+
+Classifying: Ang bakal, yero, iyero, uwit, hero, o hiero  ay isang elementong kimikal at metalikong may simbolong Fe
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 True
+
+
+Classifying: Makinang ito at may hawig ang kaputian sa kulay ng pilak
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Napupukpok ito, nahuhubog, at nababatak
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Nakakagawa mula rito ng balani
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Classifying: Sa teknolohiya at industriya, nagagamit ang elementong ito sa konstruksiyon at paggawa ng mga makinarya, sa napakaraming kaparaanan
+:: Classification if Synonymy :	 False
+:: From ANS file is Synonymy :	 False
+Match
+
+
+Score for Synonymy : 4 / 5
+Evaluating: tests/TESTFabay.txt , tests/ANSFabay.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang abay ay mga tao na itinuturing na mga panauhing pandangal o konsorte sa isang seremonyas ng kasal
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Maaari itong mga abay na lalaki / piling ginoo  o pangunahing abay na lalaki / natatanging ginoo , mga abay na babae , o abay na pandangal
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 2 / 2
+Evaluating: tests/TESTFabutan.txt , tests/ANSFabutan.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Mas angkop ang impormasyon ng artikulong ito sa isang disyunaryo sa halip na ensiklopedya
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Hindi isang disksyunaryo ang Wikipedia, ngunit diksyunaryo naman ang Wiktionary
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Paki tiyak kung umaayon ito sa pamantayan ng pagsasama sa Wiktionary at wala pa sa Tagalog na Wiktionary ang salita o katagang ito
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 3 / 3
+Evaluating: tests/TESTFAdat.txt , tests/ANSFAdat.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang adat ay isang uri ng batas ng kaugalian ng mga Tausug ng Mindanao
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sumasaklaw ito sa bawat bahagi ng buhay, maging panlipunan, pampolitika at panrelihiyon
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Pinapahintulutan ng adat ang sara  upang gumamit ng pwersang pisikal para maisakatuparan ang katarungan
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 3 / 3
+Evaluating: tests/TESTFakala.txt , tests/ANSFakala.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang iniisip, naiisip, o diwa, mula sa mga salitang isip at isipan, ay ang mga hubog, hugis, at anyong nalilikha sa isipan, sa halip na mga pormang napagmumulatan, napapansin, o napagmamasdan sa pamamagitan ng limang mga sentido o pandama
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ang naiisip o pag-iisip ay mga proseso kung saan ang mga imahinaryo o nasa isip lamang ng mga persepsiyon ay bumabangon o lumilitaw at namamanipula o napapagalaw o nahahawakan
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Nakapagpapahintulot ang pag-iisip sa mga nilalang upang imodelo o ihuwaran o lilukin ang mundo at katawanin ito ayon sa kanilang mga layunin, mga plano, mga balak, at mga nais o kagustuhan
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Katulad na mga konsepto at mga proseso ang kognisyon o paglilimi , kamalayan, kamukatan, kamuwangan, damdamin, mga ideya, at imahinasyon
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Kaugnay ito ng mga salitang pag-iisip, akala, ala-ala, hinagap, hinuha, salamisim, gunam-gunam, taki-taki, gunita, konsepto, agam-agam,nosyon, at paniniwala
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 5 / 5
+Evaluating: tests/TESTFakaunting.txt , tests/ANSFakaunting.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang accounting , pagtutuos, kontadurya  ay ang larangan at pamamaraan ng pagsusuri pagsusukat, pagpoproseso, at pamamahayag ng mga ari-arian, ng mga pananagutan, ng mga kita, ng mga resulta ng mga gawaing ekonomiko ng isang grupo ng tao, at pinansiyal na kalagayan o katayuan ng isang negosyo o organisasyon, at ang pagpapahiwatig nitong mga resulta sa mga tao, kasama na ang mga namumuhunan , nangagasiwa , at nanunustos
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ito ay tinagurian ding wika ng pagnenegosyo at magkasingkahulugan ang accounting at pag-uulat ng pananalapi
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Tinatawag na accountant ang taong nagsasanay sa larangang ito
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 3 / 3
+Evaluating: tests/TESTFaklat.txt , tests/ANSFaklat.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang aklat o libro ay mga pinagsamasamang mga nailimbag na salita sa papel
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Naglalaman din ang ibang mga aklat ng mga larawan
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Kadalasang maraming mga pahina ang mga ito
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 3 / 3
+Evaluating: tests/TESTFAktinyum.txt , tests/ANSFAktinyum.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang actinium o aktinyo  ay isang radyoaktibong elementong matatagpuan sa mga inang-bato ng uranyo, at pinanggagalingan ng mga sinag-alpa
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Mayroon itong atomikong bilang na 89
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Natuklasan ito noong 1899 ni Andr-Louis Debierne
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ito ang unang elementong hindi primordiyal na elementong radyoaktibo na unang naibukod o naihiwalay, bagaman napansin din noong dati pa ang polonyo, radyum, at radon, subalit hindi naibukod hanggang sa sumapit ang 1902
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ito ang pinakamatagal na istopo
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Mayroon itong kalahating-buhay na 21
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: 7 mga taon
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Kabilang sa mga katangian nito ang punto ng pagkatunaw  na 1,050C, punto ng pagkulo  na 3,200C, espesipikong grabidad  na humigit-kumulang sa 10
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: 07, at V na 3
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ito ang elementong nagbigay ng pangalan sa seryeng aktinido, na isang pangkat ng 15 katulad na mga elementong nasa pagitan ng aktinyo at ng lawrencium sa talaang peryodiko
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 10 / 10
+Evaluating: tests/TESTFalkohol.txt , tests/ANSFalkohol.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Sa kimika, ang alkohol ay kahit anong kompuwestong organiko na nasa pangkat ng hydroxyl  na papunta sa isang atomo ng karbon ng isang alkyl o pinalitang pangkat ng alkyl
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ang pormula sa isang payak na alkohol na acyclic ay CnH2n+1OH
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa karaniwang gamit, tumutukoy ang alcohol sa ethanol, isang uri ng alkohol na matatagpuan sa mga inuming alkohol
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 3 / 3
+Evaluating: tests/TESTFalmendras.txt , tests/ANSFalmendras.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang almendras o almendro  ay isang uri ng bungang mani at puno nito
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Bagaman tinatawag din itong pili, ang tunay na punong pili ay ang punong Canarium ovatum Prunus dulcis ang pangalang pang-agham nito, ngunit may iba itong mga pangalang siyentipiko o kasingkahulugan: Prunus amygdalus Batsch
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: , Amygdalus communis L
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: , Amygdalus dulcis Mill
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Isang uri ng Prunus ang almendras at kabilang sa subpamilyang Prunoideae ng pamilyang Rosaceae; sa loob ng Prunus, ibinibilang ito sa mga walnut sa subsaring Amygdalus, na maipagkakaiba mula sa iba pang mga subsari  sa pamamagitan ng mga kulubot sa balat ng mga buto nito
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 True
+
+
+Classifying: Almendro  din ang tawag sa buto ng punong ito
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa larangan ng botaniya, hindi ito itinuturing na isang tunay na mani, bagaman laging natatawag na mani sa karaniwang usapan
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 6 / 7
+Evaluating: tests/TESTFanak-araw.txt , tests/ANSFanak-araw.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang anak-araw o albinismo, na mula sa Latin: albus , ay isang uri ng suliraning konhenital at kakulangan ng kulay  sa katawan
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ang organismong may karamdamang albinismo ay tinatawag na anak-araw, albino o sarka , at tumutukoy sa mga mamalya , isda, ibon, reptilya at amphibian na may maputing balat, buhok at iba pang bahagi ng katawan
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: May kakulangan  o kaya buong kawalan  ng kulay o melanin  ang organismong may ganitong katangian namamana o kamaliang henetiko
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ito ay isang namamanang katangiang natutulog o hindi kadalasang lumilitaw
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ang iba pang mga pandiwang ginagamit para tukuyin ang mga anak-araw ay ang mga salitang albinistiko, albinoid  at albiniko
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 5 / 5
+Evaluating: tests/TESTFanila.txt , tests/ANSFanila.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang anila, anilan, bahay-pukyutan, bahay-anilan, panilan, o saray ay ang bahay o pugad ng pukyutang gawa ng mga bubuyog
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Isa itong masa ng mga selula ng pagkit na binuo ng mga bubuyog sa loob ng kanilang pugad para ibahay ang kanilang mga anyong-uod at para makapag-imbak ng mga pulut-pukyutan at polen
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 2 / 2
+Evaluating: tests/TESTFapyak.txt , tests/ANSFapyak.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang apyak o pula ng itlog  ay ang mamulamula at madilaw na panggitnang bahagi sa loob ng isang itlog
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Tinatawag din itong burog, buro, at yema
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 2 / 2
+Evaluating: tests/TESTFaritmetiko.txt , tests/ANSFaritmetiko.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang aritmetika o bilnuran sa kaniyang kadalasang gamit ay bahagi ng matematika o sipnayan na naituturing na kahalingkabuluhan ng teorya ng bilang
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa ilalim nito ay ang tradisyunal na operasyon, pagsusuma o pagdaragdag, pagbabawas, pagpaparami, at paghahati
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Kasama rin ng bilnuran ay ang mas mataas na operasyon gaya ng pagbabahagdann
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Kinukwenta ang mga operasyon ayon sa kaniyang batas nang pagkakasunod-sunod
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 4 / 4
+Evaluating: tests/TESTFarte.txt , tests/ANSFarte.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang pagganap, pag-akto, o pag-arte  ay ang gawain o pagkilos na isinasagawa ng isang aktor o ng isang aktres, na mga taong nasa larangan ng teatro, telebisyon, pelikula, o anumang iba pang mga midya ng pagkukuwento at nagsasalaysay ng kuwento sa pamamagitan ng paglalarawan o ng isang tauhan at, sa pangkaraniwan, ay nagsasalita o umaawit ng nakasulat na teksto o dula
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa mundong Kanluranin, ang karamihan sa maagang mga sanggunian na sumisiyasat sa sining ng pag-arte  ay tumatalakay nito bilang isang bahagi ng retoriko
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 2 / 2
+Evaluating: tests/TESTFartikulasyon.txt , tests/ANSFartikulasyon.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang artikulasyon ay maaaring tumukoy sa:'
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 1 / 1
+Evaluating: tests/TESTFartikulo.txt , tests/ANSFartikulo.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Maaaring tumukoy ang Artikulo sa:'
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 1 / 1
+Evaluating: tests/TESTFartistik.txt , tests/ANSFartistik.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang sining, bagaman kadalasang tumutukoy ang salitang ito sa sining biswal, ay patuloy na nagbabago ang kaisipan na kung ano ang sining
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Marahil na pinakamalawak ang pinakamaigsing kahulugan nito  tinutukoy ng sining ang lahat ng malikhaing pagsisikap ng tao, di kabilang ang mga gawaing may tuwirang ugnayan sa pananatili ng buhay at pagsusupling
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Mula sa isang malawak na pagpapalagay, isang pangkalahatang kataga ang sining para sa anumang naibunga ng pagiging malikhain, na tumubo mula sa lahat ng iba pang larangan ng tao katulad ng agham sa pamamagitan ng alkimiya, at relihiyon sa pamamagitan ng shamanismo
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 3 / 3
+Evaluating: tests/TESTFaruskaldo.txt , tests/ANSFaruskaldo.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang lugaw  ay uri ng lutuing may sabaw, nilutong bigas, at sahog
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa Pilipinas, nagluluto ang mga Pilipino ng goto o lugaw goto na sinangkapan ng goto o kalyos ng baka
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Maaari ring haluan ito ng paa ng baka
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Isang pang lugaw ng Pilipino ang lugaw tokwa-baboy
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa pinakapayak na paghahanda, nilalagyan lamang ang lugaw ng asukal , at ang ganitong nilugaw ang inihahanda para sa batang may sakit
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Gumagamit din sa nilugaw ng mga hibi at sa bao
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Bago kainin ang isinilbing lugaw, kadalasan ding nilalagyan ito ng patis, toyo, bawang, paminta, at kalamansi
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 7 / 7
+Evaluating: tests/TESTFasam-asamin.txt , tests/ANSFasam-asamin.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang nais, na may kaugnayan o pagkakahalintulad sa mga salitang sana, gusto, ibig, hilig, nasa , pita, sinta, asam, o sabik, ay ang paghahangad para sa isang tao o bagay o pag-asa para sa isang resulta o kinalabasan
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ang katulad na diwa ay ipinapahayag ng mga damdaming katulad ng pagmimithi
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Kapag ang isang tao ay naghahangad ng isang bagay o ng isang tao, ang kanilang pakiramdam ng pag-asam ay pinasisigla ng kasiyahan o ng pagkaisip ng bagay o ng tao, at nais nilang gumawa ng mga kilos upang makamit ang kaniyang layunin
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ang aspeto ng motibasyon o udyok  ng pagnanais ay matagal nang napansin ng mga pilosopo; ipinahayag ni Hobbes  na ang pagnanais ng tao ay isang pundamental na kaudyukan ng lahat ng kilos ng tao
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 4 / 4
+Evaluating: tests/TESTFasido.txt , tests/ANSFasido.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang isang asido o aksido  ay isang kompuwestong kimikal na karaniwang natutunaw sa tubig at may maasim na lasa
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 True
+
+
+Classifying: Sa karaniwang kaisipan, ang isang asido ay kahit anong sustansiya na kapag tinunaw o inihalo sa tubig ay nagdudulot ng pH na mas mababa sa 7
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa pangmalawakang gamit sa agham, ang asido ay isang molekula o iono na nagbibigay ng isang proton  sa isang base, o tumatanggap ng isang hindi pa naibabahaging pares ng elektron  sa isang base
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Nakikipagsanib ang isang asido sa isang base sa neutralisasyon upang makabuo ng isang asin
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 3 / 4
+Evaluating: tests/TESTFAstatin.txt , tests/ANSFAstatin.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang astato  ay isang uri ng elementong kimikal na radyoaktibo at may sagisag na At at atomikong bilang na 85
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ito ang pinakamabigat sa natuklasan nang mga halogeno
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Bagaman nalilikha ito sa pamamagitan ng pagkabulok na radyoaktibo sa kalikasan, natatagpuan lamang itong may kakaunting bilang dahil sa maiksi nitong kalahating buhay
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Unang nakagawa ng astatino sina Dale R
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Corson, Kenneth Ross MacKenzie, at Emilio Segr noong 1940
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Tatlong taon ang nakalipas bago natagpuan ang mga bakas ng astatino sa loob ng likas na mga mineral
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Hanggang sa kamakailan lamang, karamihan sa mga katangiang pisikal at kimikal ng astatino ay nababatay lamang mula sa paghahambing sa iba pang mga elemento
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ilan sa mga isotopo ng astatino ang ginagamit bilang mga tagapaglabas o "emiter" ng mga partikulong alpa sa mga paggamit na makaagham at nasubukan na rin ang paggamit na pangmedisina ng astatino bilang 211
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa kasalukuyan, ang astatino ang pinakabihirang likas na lumilitaw o likas na nalilikhang elemento, na may mas mababa sa isang onsa sa loob ng buong balat o kapatagan ng mundo
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 9 / 9
+Evaluating: tests/TESTFAsupre.txt , tests/ANSFAsupre.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang asupre, sangyawa o sulpura  ay isang kemikal na elementong gumagamit sa bilang atomikong 16
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ito ay karaniwang ginagamitan ng simbolong S
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ito ay isang karaniwang multibalente na hindi metal
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Asupre, sa katutubong uri, ay matamlay na dilaw na crystal line solid
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa kalikasan, karaniwan ito matatagpuang purong elemento at mga mineral na asuprido at asuprata
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Isa itong esensyal na elemento para sa buhay at matatagpuan ito sa mga asidong amino: cysteine at methionine
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ginagamit itong pataba, pero karaniwan din ito sa pulbura, posporo, insecticide at fungicide
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ang elementong asupre na kristal ay kadalasang hinahanap ng mga nangongolekta ng mga mineral dahil sa matingkad nitong mga sukat na polihedron
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Tinatawag din itong brimstone sa Inggles
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 9 / 9
+Evaluating: tests/TESTFateismo.txt , tests/ANSFateismo.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Sa pinakamalawak nitong kahulugan, ang ateismo ay ang hindi paniniwala sa Diyos o mga diyos
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 1 / 1
+Evaluating: tests/TESTFawit.txt , tests/ANSFawit.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang awitin ay musika na magandang pakinggan
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Kadalasang itong maganda kung gusto rin ito ng makikinig
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Mayroon itong tono at sukat
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Naglalaman ang isang awiting ng bahaging pang-tinig na ginagampanan, inaawit at pangkalahatang tinatanghal ang mga salita , karaniwang sinusundan ng mga intrumentong pang-musika
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Kadalasang nasa anyong tula at tumutugma ang mga salita ng mga awitin, bagaman, may mga relihiyosong mga taludtod o malayang prosa
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ang mga salita ay ang liriko
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ang awitin ay tinatawag ding talindaw o tagulaylay, partikular na iyong mga awitin ng mga mangingisda
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 7 / 7
+Evaluating: tests/TESTFbabuyin.txt , tests/ANSFbabuyin.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang baboy ay maaaring tumukoy sa:'
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 1 / 1
+Evaluating: tests/TESTFbahaghari.txt , tests/ANSFbahaghari.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang kahulugan ng bahaghari ay bahag at hari
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Ang mga bahaghari, bahagsubay o balangaw  ay mga pulutong ng kulay na nasa anyo ng kalahati o buong bilog
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Makikita ang penomeno o likas na kaganapang ito pagkatapos ng pag-ulan, mula sa singaw ng pandilig na may pangwisik, o kaya mula sa singaw-ulap ng isang umaagos na talon
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Nabubuo ang bahaghari mula sa sinag ng araw at mga mahalumigmig na ambon sa hangin
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 4 / 4
+Evaluating: tests/TESTFbahain.txt , tests/ANSFbahain.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang baha ay labis na pag-apaw ng tubig o isang paglawak ng tubig na natatakpan ang lupa, at isang delubyo
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sanhi nito ang ulang rumaragasa o bumubugso
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Maaari rin itong padagsang pagtambak ng napakaraming bagay sa isang lugar
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Naging katumbas din ito ng gunaw o pagkagunaw sa ibang diwa
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa katulad na kaisipan ng dumadaloy na tubig, nilalapat ang salita sa paloob na daloy ng pagkati, salungat sa palabas na pagdaloy
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 5 / 5
+Evaluating: tests/TESTFbakal.txt , tests/ANSFbakal.json
+-------------------------
+
+ Hyponym
+
+
+Classifying: Ang bakal, yero, iyero, uwit, hero, o hiero  ay isang elementong kimikal at metalikong may simbolong Fe
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Makinang ito at may hawig ang kaputian sa kulay ng pilak
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Napupukpok ito, nahuhubog, at nababatak
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Nakakagawa mula rito ng balani
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Classifying: Sa teknolohiya at industriya, nagagamit ang elementong ito sa konstruksiyon at paggawa ng mga makinarya, sa napakaraming kaparaanan
+:: Classification if Hyponym :	 False
+:: From ANS file is Hyponym :	 False
+Match
+
+
+Score for Hyponym : 5 / 5

@@ -1,0 +1,1 @@
+b'Andrenidae\nApidae\nColletidae\nDasypodaidae\nHalictidae\nMegachilidae\nMeganomiidae\nMelittidae\nStenotritidae'

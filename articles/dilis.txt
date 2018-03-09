@@ -1,0 +1,1 @@
+b'Amazonsprattus\nAnchoa\nAnchovia\nAnchoviella\nCetengraulis\nCoilia\nEncrasicholina\nEngraulis\nJurengraulis\nLycengraulis\nLycothrissa\nPapuengraulis\nPterengraulis\nSetipinna\nStolephorus\nThryssa'

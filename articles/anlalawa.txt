@@ -1,0 +1,1 @@
+b'Mesothelae\nMygalomorphae\nAraneomorphae\n'

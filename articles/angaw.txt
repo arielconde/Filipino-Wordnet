@@ -1,0 +1,1 @@
+b'Ang 1,000,000  ay isang likas na bilang na pagkatapos ng 999,999 at bago ng 1,000,001.'

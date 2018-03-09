@@ -1,0 +1,1 @@
+b'Aphis citricola\nAphis craccivora\nAphis fabae\nAphis gossypii\nAphis middletonii\nAphis nasturtii\nAphis nerii\nAphis oenotherae\nAphis oestlundi'
