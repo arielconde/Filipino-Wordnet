@@ -18,7 +18,7 @@ MAX_ARTICLE_COUNT = 1000
 articles = []
 article_names = []
 
-ARTICLES_FOLDER = 'better_articles/'
+ARTICLES_FOLDER = 'articles/'
 
 def loadarticles():
     files = listdir(ARTICLES_FOLDER)
